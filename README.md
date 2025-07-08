@@ -1,5 +1,5 @@
 # AxionDarkPhotonSimulator
-AxionDarkPhotonSimular is a python package for simulating an axion-dark photon system, coupled through a Chern-Simons term, in an expanding universe.
+AxionDarkPhotonSimular is a python package for simulating an axion-dark photon system, coupled through a Chern-Simons term, in an expanding universe. Here, "axion" stands for a scalar field and "dark photon" stands for a massive photon field.
 
 ## Installation
 One should download the folder with the version number, which includes all necessary python scripts. The main script for running the simulation is "main.py". For example, one can first navigate to the folder and then type `python main.py` in the command line.
