@@ -25,7 +25,7 @@ The package includes the following scripts:
 - Well structured and easy to maintain. The code blocks for different uses are well documented and separated.
 - Supports different expanding backgrounds. One can specify a radiation- or matter-dominated background, or one with transitions between them. (In the current setup, the expansion of the universe is not dynamically driven by the matter fields, but is instead treated as a background.)
 
-For more details about what this package can do or how to use the functions, simply read the codes. Variables and functions are well documented, and reading python codes is like reading a book.
+For more details about what this package can do or how to use the functions, simply read the codes. Variables and functions are well documented, and reading python codes is as simple as reading a book.
 
 ## Contact
 If you find any bugs, please report them to my email address displayed on [my website](https://hongyi18.github.io/).
