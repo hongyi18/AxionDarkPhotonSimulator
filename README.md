@@ -5,7 +5,7 @@ AxionDarkPhotonSimular is a python package for simulating an axion-dark photon s
 One should download the folder with the version number, which includes all necessary python scripts. The main script for running the simulation is "main.py". For example, one can first navigate to the folder and then type `python main.py` in the command line.
 
 ## Documentation
-This package was first released along with the research paper [arXiv:2507.](...). The mathematical prescription and numerical details are provided in [Numerical details for AxionDarkPhotonSimulator.pdf](...). For more details about what this package can do or how to use the functions, simply read the codes. Python is famous for its easiness to read and understand, and variables and functions are well documented.
+This package was first released along with the research paper [arXiv:2507.](...). The mathematical prescription and numerical details are provided in [Numerical details for AxionDarkPhotonSimulator.pdf](...). For more details about what this package can do or how to use it, simply read the codes. Python is famous for its easiness to read and understand, and variables and functions are well documented.
 
 ## Code structure
 The package includes the following scripts:
