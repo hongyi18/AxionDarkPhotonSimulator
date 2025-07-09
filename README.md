@@ -7,6 +7,8 @@ One should download the folder with the version number, which includes all neces
 ## Documentation
 This package was first released along with the research paper [arXiv:2507.](...). Mathematical formulations and numerical implementation details are provided in [Numerical details for AxionDarkPhotonSimulator.pdf](...). For more details about what this package can do or how to use it, simply read and play with the codes. Python is known for its readability, and the variables and functions in this package are clearly documented.
 
+Prerequisite python version and modules: python 3.12, numpy 1.26.4, matplotlib 3.10.0, numba 0.61.0 (These versions have been tested).
+
 ## Code structure
 The package includes the following scripts:
 - *param.py*: Simulation settings and model-dependent quantities. Usually this is the only script that needs to be adjusted.
