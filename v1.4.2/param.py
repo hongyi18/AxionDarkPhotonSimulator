@@ -59,5 +59,5 @@ Nt_prog = max(1, Nt//50) # Report the running progress every Nt_prog time steps.
 # Model parameters.
 alpha = 0 # Coupling constant.
 beta = 0.1 # m_X/m_\phi.
-m2f = 1e-4 # m_\phi/f_\phi.
+m2f = 1e-5 # m_\phi/f_\phi.
 lamb_s = (m2f*beta)**2 # Rescaling factor.
