@@ -21,7 +21,7 @@ The package includes the following scripts:
 ## Key features
 - Achieve 2nd-order accuracy in both time and space.
 - Use implicit methods to ensure strong stability.
-- Use the python module *numba* to accelerate the codes. On my personal laptop with Intel Core Ultra 7 155H, it takes ~20 hours to evolve the system with $128^3$ points by 8500 time steps.
+- Use the python module *numba* to accelerate the codes. On my personal laptop with Intel Core Ultra 7 155H, it takes ~15 hours to evolve the system with $128^3$ points by 8500 time steps.
 - Estimate the total running time at the beginning of a simulation. You don't need to worry about that the simulation may take much longer time than you naively expect.
 - Support resuming simulations from a breakpoint. The process is automated and you don't need to manipulate any files.
 - Well structured and easy to maintain. The code blocks for different uses are well documented and separated.
