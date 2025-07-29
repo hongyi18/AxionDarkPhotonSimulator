@@ -5,7 +5,7 @@ AxionDarkPhotonSimular is a python package for simulating an axion-dark photon s
 One should download the folder with the version number, which includes all necessary python scripts. The main script for running the simulation is "main.py". For example, one can first navigate to the folder and then type `python main.py` in the command line.
 
 ## Documentation
-This package was first released along with the research paper [arXiv:2507.](...). Mathematical formulations and numerical implementation details are provided in [Numerical details for AxionDarkPhotonSimulator.pdf](...). For more details about what this package can do or how to use it, simply read and play with the codes. Python is known for its readability, and the variables and functions in this package are clearly documented.
+This package was first released along with the research paper [arXiv:2507.20484](https://arxiv.org/abs/2507.20484). Mathematical formulations and numerical implementation details are provided in [Numerical details for AxionDarkPhotonSimulator.pdf](https://github.com/hongyi18/AxionDarkPhotonSimulator/blob/main/Numerical%20details%20for%20AxionDarkPhotonSimulator.pdf). For more details about what this package can do or how to use it, simply read and play with the codes. Python is known for its readability, and the variables and functions in this package are clearly documented.
 
 Prerequisite python version and modules: python 3.12, numpy 1.26.4, matplotlib 3.10.0, numba 0.61.0 (These versions have been tested).
 
@@ -28,7 +28,7 @@ The package includes the following scripts:
 - Supports different expanding backgrounds. One can specify a radiation- or matter-dominated background, or one with transitions between them. (In the current setup, the expansion of the universe is not dynamically driven by the matter fields, but is instead treated as a background.)
 
 ## Citation
-If you use this code as part of your research, please cite [arXiv:2507.](...)1 in your work.
+If you use this code as part of your research, please cite [arXiv:2507.20484](https://arxiv.org/abs/2507.20484) in your work.
 
 ## Contact
 If you find any bugs, please report them to my email address displayed on [my website](https://hongyi18.github.io/).
